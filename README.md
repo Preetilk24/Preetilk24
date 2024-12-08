@@ -42,6 +42,6 @@ I’m always open to collaborating on exciting projects, exploring new technolog
 ## 📫 How to Reach Me
 
 You can reach me via:
-- **Email**: [your-email@example.com]  
-- **LinkedIn**: [your-linkedin-profile]
-- **Portfolio**:
+- **Email**: preetilk52@gmail.com 
+- **LinkedIn**: https://www.com/linkedin.com/in/preetilk
+- **Portfolio**: https://preetilk24.github.io/myportfolio/
