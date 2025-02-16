@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m Preeti Kadrolli 
 
 I’m a passionate Java Developer and Full Stack Web Developer with a strong foundation in programming and problem-solving. I thrive on creating innovative, user-friendly applications and enjoy exploring new technologies to enhance my skills. My goal is to contribute to impactful projects that make a difference while continually growing in my career.
 
