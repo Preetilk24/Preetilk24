@@ -25,7 +25,8 @@ I’m a passionate Java Developer and Full Stack Web Developer with a strong fou
 
 **Tools**:  
 - GitHub  
-- VS Code  
+- VS Code
+- Eclipse
 
 ## 🌱 Currently Learning
 
