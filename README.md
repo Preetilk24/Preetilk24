@@ -16,8 +16,8 @@ I’m a passionate Java Developer and Full Stack Web Developer with a strong fou
 - Spring
 
 **Languages**:
--Java
--Python
+- Java
+- Python
 
 **Databases**:  
 - MySQL  
