@@ -10,7 +10,7 @@ I'm a **Java Developer** and **Full Stack Web Developer** passionate about build
 HTML · CSS · JavaScript · React.js  
 
 **Backend:**  
-Java · JDBC · Spring · Express.js  
+Java · JDBC · Spring 
 
 **Languages:**  
 Java · Python  
