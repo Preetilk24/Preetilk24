@@ -11,7 +11,6 @@ I’m a passionate Java Developer and Full Stack Web Developer with a strong fou
 - React.js
 
 **Backend**:
-- Node.js 
 - JDBC  
 - Spring
 
