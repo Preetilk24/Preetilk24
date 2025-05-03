@@ -1,47 +1,44 @@
-# 👋 Hi, I’m Preeti Kadrolli 
+# 👋 Hi, I'm Preeti Kadrolli
 
-I’m a passionate Java Developer and Full Stack Web Developer with a strong foundation in programming and problem-solving. I thrive on creating innovative, user-friendly applications and enjoy exploring new technologies to enhance my skills. My goal is to contribute to impactful projects that make a difference while continually growing in my career.
+I'm a **Java Developer** and **Full Stack Web Developer** passionate about building efficient, user-friendly applications. With a strong grip on Java, Spring, and modern web technologies, I love turning ideas into reality through clean code and creative solutions.
 
-## 🔧 Technologies & Tools
+---
 
-**FrontEnd**:    
-- HTML  
-- CSS  
-- JavaScript  
-- React.js
+## 🔧 Tech Stack
 
-**Backend**:
-- JDBC  
-- Spring
+**Frontend:**  
+HTML · CSS · JavaScript · React.js  
 
-**Languages**:
-- Java
-- Python
+**Backend:**  
+Java · JDBC · Spring · Express.js  
 
-**Databases**:  
-- MySQL  
-- MongoDB  
+**Languages:**  
+Java · Python  
 
-**Tools**:  
-- GitHub  
-- VS Code
-- Eclipse
+**Databases:**  
+MySQL · MongoDB  
+
+**Tools:**  
+GitHub · VS Code · Eclipse  
+
+---
 
 ## 🌱 Currently Learning
+Improving my **Java backend skills** with Spring and diving deeper into **Express.js** for scalable web apps.
 
-I’m currently learning **Java backend development**, focusing on building scalable and efficient applications with Spring and Expressjs
+---
 
-## 💞️ I’m Looking to Collaborate On
+## 🤝 Open to Collaborate On
+Full-stack, frontend, or backend projects — let's build something awesome together!
 
-I’m looking to collaborate on **backend**, **frontend**, and **full-stack development** projects. If you have an exciting project or open-source collaboration in mind, feel free to reach out!
+---
 
-## 🚀 Let's Connect!
+## 📫 Contact Me
 
-I’m always open to collaborating on exciting projects, exploring new technologies, and connecting with passionate individuals who share similar interests. Feel free to drop me a message!
+- 📧 [preetilk52@gmail.com](mailto:preetilk52@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/preetilk)  
+- 🌐 [Portfolio](https://preetilk24.github.io/myportfolio/)
 
-## 📫 How to Reach Me
+---
 
-You can reach me via:
-- **Email**: preetilk52@gmail.com 
-- **LinkedIn**: https://www.com/linkedin.com/in/preetilk
-- **Portfolio**: https://preetilk24.github.io/myportfolio/
+💬 *Let’s connect, create, and grow together!*
