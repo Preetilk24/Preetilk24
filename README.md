@@ -35,7 +35,7 @@ Full-stack, frontend, or backend projects — let's build something awesome toge
 
 ## 📫 Contact Me
 
-- 📧 [preetilk52@gmail.com](mailto:preetilk52@gmail.com)  
+- 📧 [preetilk52@gmail.com](mailto:preetilk32@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/preetilk)  
 - 🌐 [Portfolio](https://preetilk24.github.io/myportfolio/)
 
